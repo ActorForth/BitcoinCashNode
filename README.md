@@ -1,1 +1,2 @@
 # BitcoinCashNode
+Dockerfile for CI
